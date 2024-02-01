@@ -13,7 +13,7 @@ This is a simple Number Guessing game implemented in Typescript. The game genera
 Run the calculator:
 
 ```bash
-npx @iqrazainab/00calculator
+npx 01_numguessing
 ```
 Follow the prompt to perform calculations with style!
 
