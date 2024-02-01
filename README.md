@@ -10,12 +10,11 @@ This is a simple Number Guessing game implemented in Typescript. The game genera
 * Option to play again after winning or losing.
 
 # Usage
-Run the calculator:
+Run the Project:
 
 ```bash
 npx 01_numguessing
 ```
-Follow the prompt to perform calculations with style!
 
 # Dependencies
 `Inquirer`: Provides the interactive prompt interface.
